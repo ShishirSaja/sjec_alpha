@@ -16,5 +16,4 @@
 - Feature 2
 - Feature 3
 
-## How to Install
-[Add instructions here.]
+
